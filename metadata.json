@@ -1,0 +1,6 @@
+{
+  "name": "Zash Makeup Artist Portfolio",
+  "description": "Prestige multi-page luxury makeup artistry website, featuring dedicated pages for The Studio, Portfolio Gallery, Services & Bespoke Package Builder, Academy Masterclasses, Love Stories, VIP Bookings Portal, and Consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
