@@ -376,6 +376,34 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       'Urban Decay All Nighter',
     ],
   },
+
+   {
+    id: 'port-8',
+    title: 'Champagne Cocktail Luminary',
+    category: 'Cocktail',
+    imageUrl:
+      'https://scontent.flko2-1.fna.fbcdn.net/v/t1.15752-9/791244872_1531096138816848_6867002188865905314_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_ohc=_ogTnGZExQ8Q7kNvwFTE-7v&_nc_oc=AdrWuVW0Eo6oGl-79qCSD4AKe3ZjSijeyiPIQrVIUwGdwLapKsgKcZ4iDRB5XI-HliQ0mHZVeMOPdF4cD2I8P69b&_nc_zt=23&_nc_ht=scontent.flko2-1.fna&_nc_ss=7b6a8&oh=03_Q7cD6QEJM6I92bbKwpkfcWQTaVwlJEKbz9Ypf52cRGGW5kOzsw&oe=6ABC6540',
+    description:
+      'A glowing champagne monochromatic glam, with fine glitter cut crease and high-gloss nude lips, engineered to shine under club strobes and ambient dining lights.',
+    techniques: [
+      'Diamond Cut-Crease',
+      'Glass Lip Lacquer',
+      'Strobe Highlighting',
+      'Textured Ponytail Styling',
+    ],
+    priceEst: 5000,
+    timeEst: '1.25 hours',
+    primaryColor: '#E6D7C3',
+    secondaryColor: '#7A6B5D',
+    accentTone: 'Champagne Shimmer & Cocoa',
+    story:
+      'Popular look for bachelorette parties, cocktail nights, and sangeet dance celebrations.',
+    productsUsed: [
+      'Stila Magnificent Metals Kitten Karma',
+      'Too Faced Born This Way',
+      'Urban Decay All Nighter',
+    ],
+  },
 ];
 export const ACADEMY_COURSES: AcademyCourse[] = [
   {
